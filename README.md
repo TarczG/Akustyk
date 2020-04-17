@@ -1,4 +1,7 @@
-# Akustyk
+## Akustyk
+
+![widokAkustyk](https://user-images.githubusercontent.com/63725366/79580495-591bd700-80c9-11ea-92b6-7206a6047fe8.JPG)
+
 =========Opis obsługi progarmu: Akustyk=====
 
 Program akustyk jest programem demonstracyjnym, testowym , który po dalszym rozbudowaniu 
